@@ -16,9 +16,8 @@ Welcome to my GitHub profile! I'm passionate about data science and the powerful
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,python,aws,gcp,vscode,postgresql" />
   </a>
-</div>
 
-# 📊 GitHub Stats:
+  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohanasriharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohanasriharan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanasriharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -28,6 +27,8 @@ Welcome to my GitHub profile! I'm passionate about data science and the powerful
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohanasriharan&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
 
 
 Feel free to explore my repositories to learn more about my work. Don't hesitate to reach out if you have any questions, suggestions, or collaboration opportunities related to data science. Let's dive into the fascinating world of data together!
