@@ -18,4 +18,16 @@ Welcome to my GitHub profile! I'm passionate about data science and the powerful
   </a>
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohanasriharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohanasriharan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanasriharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mohanasriharan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mohanasriharan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 Feel free to explore my repositories to learn more about my work. Don't hesitate to reach out if you have any questions, suggestions, or collaboration opportunities related to data science. Let's dive into the fascinating world of data together!
